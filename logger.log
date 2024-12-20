@@ -1,0 +1,268 @@
+дек. 20, 2024 10:20:22 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:20:22 AM org.example.Main getFilteredPersons
+INFO: Денис
+дек. 20, 2024 10:20:22 AM org.example.Main getFilteredPersons
+INFO: Тимур
+дек. 20, 2024 10:20:22 AM org.example.Main getFilteredPersons
+INFO: Иван
+дек. 20, 2024 10:20:22 AM org.example.Main getFilteredPersons
+INFO: Данат
+дек. 20, 2024 10:20:22 AM org.example.Main getFilteredPersons
+INFO: Элоиза
+дек. 20, 2024 10:20:22 AM org.example.Main getFilteredPersons
+INFO: Артем
+дек. 20, 2024 10:20:22 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:22:28 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:22:28 AM org.example.Main getFilteredPersons
+INFO: Денис
+дек. 20, 2024 10:22:28 AM org.example.Main getFilteredPersons
+INFO: Тимур
+дек. 20, 2024 10:22:28 AM org.example.Main getFilteredPersons
+INFO: Иван
+дек. 20, 2024 10:22:28 AM org.example.Main getFilteredPersons
+INFO: Данат
+дек. 20, 2024 10:22:28 AM org.example.Main getFilteredPersons
+INFO: Элоиза
+дек. 20, 2024 10:22:28 AM org.example.Main getFilteredPersons
+INFO: Артем
+дек. 20, 2024 10:22:28 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:23:51 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:23:51 AM org.example.Main personsOlder18
+INFO: Денис
+дек. 20, 2024 10:23:51 AM org.example.Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 10:23:51 AM org.example.Main personsOlder18
+INFO: Иван
+дек. 20, 2024 10:23:51 AM org.example.Main personsOlder18
+INFO: Данат
+дек. 20, 2024 10:23:51 AM org.example.Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 10:23:51 AM org.example.Main personsOlder18
+INFO: Артем
+дек. 20, 2024 10:23:51 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:30:00 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:30:00 AM org.example.Main personsOlder18
+INFO: Денис
+дек. 20, 2024 10:30:00 AM org.example.Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 10:30:00 AM org.example.Main personsOlder18
+INFO: Иван
+дек. 20, 2024 10:30:00 AM org.example.Main personsOlder18
+INFO: Данат
+дек. 20, 2024 10:30:00 AM org.example.Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 10:30:00 AM org.example.Main personsOlder18
+INFO: Артем
+дек. 20, 2024 10:30:00 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:30:43 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:30:43 AM org.example.Main personsOlder18
+INFO: Денис
+дек. 20, 2024 10:30:43 AM org.example.Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 10:30:43 AM org.example.Main personsOlder18
+INFO: Иван
+дек. 20, 2024 10:30:43 AM org.example.Main personsOlder18
+INFO: Данат
+дек. 20, 2024 10:30:43 AM org.example.Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 10:30:43 AM org.example.Main personsOlder18
+INFO: Артем
+дек. 20, 2024 10:30:43 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:31:01 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:31:01 AM org.example.Main personsOlder18
+INFO: Денис
+дек. 20, 2024 10:31:01 AM org.example.Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 10:31:01 AM org.example.Main personsOlder18
+INFO: Иван
+дек. 20, 2024 10:31:01 AM org.example.Main personsOlder18
+INFO: Данат
+дек. 20, 2024 10:31:01 AM org.example.Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 10:31:01 AM org.example.Main personsOlder18
+INFO: Артем
+дек. 20, 2024 10:31:01 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:32:28 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:32:28 AM org.example.Main personsOlder18
+INFO: Денис
+дек. 20, 2024 10:32:28 AM org.example.Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 10:32:28 AM org.example.Main personsOlder18
+INFO: Иван
+дек. 20, 2024 10:32:28 AM org.example.Main personsOlder18
+INFO: Данат
+дек. 20, 2024 10:32:28 AM org.example.Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 10:32:28 AM org.example.Main personsOlder18
+INFO: Артем
+дек. 20, 2024 10:32:28 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:38:33 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:38:33 AM org.example.Main personsOlder18
+INFO: Денис
+дек. 20, 2024 10:38:33 AM org.example.Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 10:38:33 AM org.example.Main personsOlder18
+INFO: Иван
+дек. 20, 2024 10:38:33 AM org.example.Main personsOlder18
+INFO: Данат
+дек. 20, 2024 10:38:33 AM org.example.Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 10:38:33 AM org.example.Main personsOlder18
+INFO: Артем
+дек. 20, 2024 10:38:33 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:38:33 AM org.example.Main main
+INFO: Время выполнения сортировки массива: 56724100 наносекунд.
+дек. 20, 2024 10:40:42 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:40:42 AM org.example.Main personsOlder18
+INFO: Денис
+дек. 20, 2024 10:40:42 AM org.example.Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 10:40:42 AM org.example.Main personsOlder18
+INFO: Иван
+дек. 20, 2024 10:40:42 AM org.example.Main personsOlder18
+INFO: Данат
+дек. 20, 2024 10:40:42 AM org.example.Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 10:40:42 AM org.example.Main personsOlder18
+INFO: Артем
+дек. 20, 2024 10:40:42 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:41:22 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:41:22 AM org.example.Main personsOlder18
+INFO: Денис
+дек. 20, 2024 10:41:22 AM org.example.Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 10:41:22 AM org.example.Main personsOlder18
+INFO: Иван
+дек. 20, 2024 10:41:22 AM org.example.Main personsOlder18
+INFO: Данат
+дек. 20, 2024 10:41:22 AM org.example.Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 10:41:22 AM org.example.Main personsOlder18
+INFO: Артем
+дек. 20, 2024 10:41:22 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:41:22 AM org.example.Main main
+INFO: Время выполнения сортировки массива: 50158800 наносекунд.
+дек. 20, 2024 10:41:31 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:41:31 AM org.example.Main personsOlder18
+INFO: Денис
+дек. 20, 2024 10:41:31 AM org.example.Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 10:41:31 AM org.example.Main personsOlder18
+INFO: Иван
+дек. 20, 2024 10:41:31 AM org.example.Main personsOlder18
+INFO: Данат
+дек. 20, 2024 10:41:31 AM org.example.Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 10:41:31 AM org.example.Main personsOlder18
+INFO: Артем
+дек. 20, 2024 10:41:31 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:41:49 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:41:49 AM org.example.Main personsOlder18
+INFO: Денис
+дек. 20, 2024 10:41:49 AM org.example.Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 10:41:49 AM org.example.Main personsOlder18
+INFO: Иван
+дек. 20, 2024 10:41:49 AM org.example.Main personsOlder18
+INFO: Данат
+дек. 20, 2024 10:41:49 AM org.example.Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 10:41:49 AM org.example.Main personsOlder18
+INFO: Артем
+дек. 20, 2024 10:41:49 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:41:59 AM org.example.Main main
+INFO: Время выполнения сортировки массива: 9269028500 наносекунд.
+дек. 20, 2024 10:42:39 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:42:39 AM org.example.Main personsOlder18
+INFO: Денис
+дек. 20, 2024 10:42:39 AM org.example.Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 10:42:39 AM org.example.Main personsOlder18
+INFO: Иван
+дек. 20, 2024 10:42:39 AM org.example.Main personsOlder18
+INFO: Данат
+дек. 20, 2024 10:42:39 AM org.example.Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 10:42:39 AM org.example.Main personsOlder18
+INFO: Артем
+дек. 20, 2024 10:42:39 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:42:41 AM org.example.Main main
+INFO: Время выполнения сортировки массива: 1 секунд.
+дек. 20, 2024 10:43:01 AM org.example.Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 10:43:01 AM org.example.Main personsOlder18
+INFO: Денис
+дек. 20, 2024 10:43:01 AM org.example.Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 10:43:01 AM org.example.Main personsOlder18
+INFO: Иван
+дек. 20, 2024 10:43:01 AM org.example.Main personsOlder18
+INFO: Данат
+дек. 20, 2024 10:43:01 AM org.example.Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 10:43:01 AM org.example.Main personsOlder18
+INFO: Артем
+дек. 20, 2024 10:43:01 AM org.example.Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 10:43:11 AM org.example.Main main
+INFO: Время выполнения сортировки массива: 10 сек.
+дек. 20, 2024 11:10:45 AM Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 11:10:45 AM Main personsOlder18
+INFO: Денис
+дек. 20, 2024 11:10:45 AM Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 11:10:45 AM Main personsOlder18
+INFO: Иван
+дек. 20, 2024 11:10:45 AM Main personsOlder18
+INFO: Данат
+дек. 20, 2024 11:10:45 AM Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 11:10:45 AM Main personsOlder18
+INFO: Артем
+дек. 20, 2024 11:10:45 AM Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json
+дек. 20, 2024 11:10:56 AM Main main
+INFO: Время выполнения сортировки массива: 10 сек.
+дек. 20, 2024 11:12:00 AM Main getPersons
+INFO: JSON файл успешно считан
+дек. 20, 2024 11:12:00 AM Main personsOlder18
+INFO: Денис
+дек. 20, 2024 11:12:00 AM Main personsOlder18
+INFO: Тимур
+дек. 20, 2024 11:12:00 AM Main personsOlder18
+INFO: Иван
+дек. 20, 2024 11:12:00 AM Main personsOlder18
+INFO: Данат
+дек. 20, 2024 11:12:00 AM Main personsOlder18
+INFO: Элоиза
+дек. 20, 2024 11:12:00 AM Main personsOlder18
+INFO: Артем
+дек. 20, 2024 11:12:00 AM Main writePersons
+INFO: Данные успешно записаны в файл personsChanged.json

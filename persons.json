@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Денис",
+    "dateOfBirth" : "2002-12-20",
+    "email" : "denis@gmail.com"
+  },
+  {
+    "name": "Тимур",
+    "dateOfBirth" : "2004-10-27",
+    "email" : "denis@gmail.com"
+  },
+  {
+    "name": "Иван",
+    "dateOfBirth" : "2005-11-12",
+    "email" : "denis@gmail.com"
+  },
+  {
+    "name": "Кирилл",
+    "dateOfBirth" : "2008-07-13",
+    "email" : "denis@gmail.com"
+  },
+  {
+    "name": "Данат",
+    "dateOfBirth" : "2002-12-24",
+    "email" : "denis@gmail.com"
+  },
+  {
+    "name": "Элоиза",
+    "dateOfBirth" : "2003-10-12",
+    "email" : "denis@gmail.com"
+  },
+  {
+    "name": "Артем",
+    "dateOfBirth" : "2000-02-24",
+    "email" : "denis@gmail.com"
+  }
+]
